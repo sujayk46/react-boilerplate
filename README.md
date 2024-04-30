@@ -23,7 +23,7 @@ Make sure you have Node.js and npm (or yarn) installed on your machine.
 
 1. Clone this repository to your local machine:
    ```ts
-   git clone https://github.com/Gamerzydude46/react-boilerplate.git
+   git clone https://github.com/sujayk46/react-boilerplate.git
    ```
 
 2. Install dependencies:
