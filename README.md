@@ -11,7 +11,6 @@ This boilerplate provides a structured setup for starting React projects with Vi
 - Tailwind CSS: Utility-first CSS framework
 - ESLint: Pluggable linting utility for JavaScript and JSX
 - Pre-configured folder structure for easier development
-- [Add any additional features here]
 
 ## Getting Started
 
